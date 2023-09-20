@@ -72,11 +72,26 @@ ZeroDivisionError: division by zero
 ```
 > Here is an example of using a codeblock for an error that appears in bash
 
+
+when you can always provide a codeblock rather than a screenshot
+if you need to take a screenshot, make sure it isn't a photo from your phone
+
+> there are certain cases when it is allowed to take a photo with your phone. this is when you are showing something like a keyboard, which doesn't appear on a computer screenboard. if it render on your vomputer screen, it should be a screenshot
+
 ## Step 2 - How to take Screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone
 
 This is not to be confused with taking a photo with your phone
+
+**Don't Do This**
+
+<img height = 200 width = 200 src=assets/phone-image.jpeg/>
+
+**Do This Instead**
+
+<img width="497" alt="image" src="https://github.com/El-magnificoxxii/github-docs-example/assets/75856679/70eb2362-d1cc-41c1-a1b2-c9394b8e336a">
+
 
 
 ## Step 3 - Use Github Flavored Markdown Task lists<sup>[1]</sup>
