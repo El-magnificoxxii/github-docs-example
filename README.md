@@ -102,6 +102,13 @@ You can use the followinh markdown format to create tables:
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options [<sup>[2]</sup>](#references)
 
+- Make note of where the Pipe character is located.
+- It should appear above the tab key
+- it may vary based on your keyboard type
+
+![Photo of backtick on the keyboard](assets/download.jpeg)
+>this is a more cleaner way to put in images because the image is located in a folder inside github
+
 ## References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
