@@ -72,6 +72,12 @@ ZeroDivisionError: division by zero
 ```
 > Here is an example of using a codeblock for an error that appears in bash
 
+## Step 2 - How to take Screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone
+
+This is not to be confused with taking a photo with your phone
+
 
 ## Step 3 - Use Github Flavored Markdown Task lists<sup>[1]</sup>
 
@@ -106,8 +112,9 @@ Github extends the functionality of markdown tables to provide more alignment an
 - It should appear above the tab key
 - it may vary based on your keyboard type
 
-![Photo of backtick on the keyboard](assets/pipe.jpeg)
+![Photo of backtick on the keyboard](assets/pipe.jpeg)t
 >this is a more cleaner way to put in images because the image is located in a folder inside github
+>the path can also be used with html(i.e img src)
 
 ## References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
