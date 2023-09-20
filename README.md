@@ -131,7 +131,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 >this is a more cleaner way to put in images because the image is located in a folder inside github
 >the path can also be used with html(i.e img src)
 
-[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+[Secret Window Hidden Garden](assets/secret-window/hidden-garden.md)
 
 ## References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
