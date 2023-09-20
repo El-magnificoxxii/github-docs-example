@@ -106,7 +106,7 @@ Github extends the functionality of markdown tables to provide more alignment an
 - It should appear above the tab key
 - it may vary based on your keyboard type
 
-![Photo of backtick on the keyboard](assets/pipe character.jpeg)
+![Photo of backtick on the keyboard](assets/pipe.jpeg)
 >this is a more cleaner way to put in images because the image is located in a folder inside github
 
 ## References
